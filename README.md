@@ -1,6 +1,6 @@
 # Flight Routes
 
-# author: Baudelaire Belfort-Bruno
-# email: baubelf@gmail.com
+author: Baudelaire Belfort-Bruno
+email: baubelf@gmail.com
 
 This program returns flight routes between airport cities.
